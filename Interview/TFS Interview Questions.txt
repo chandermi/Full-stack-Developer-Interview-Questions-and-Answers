@@ -1,0 +1,7 @@
+1) What is TFS?
+2) Enlist major functionalities provided by TFS?
+3) In which programming Language TFS in written?
+4) What is difference between TFS and SVN?
+5) Does TFS support Git?
+6) Enlist the steps to create repository on TFS?
+7) What is tf Command in TFS?
